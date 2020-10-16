@@ -24,4 +24,4 @@ Sou formado em Ciências Econômicas pela UFRPE e em Gestão em Logística pela 
 
 <br>
 
-![IvanildoBatista GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
+![IvanildoBatista GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvanildoBatista&show_icons=true)

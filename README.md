@@ -6,13 +6,13 @@ Sou formado em Ciências Econômicas pela UFRPE e em Gestão em Logística pela 
 
 ## Sobre mim
 
-- Moro em Recife/PE
+🌎 - Moro em Recife/PE
 
 - O que mais gosto é de analisar dados, aplicar estatística e visualizar padrões
 
 - Estou no início da carreira em *Data Science* focando no aprendizado das principais etapas dessa área
 
-- Além disso curto jogar xadrez, maratonar séries e sair para correr no final da tarde.
+:chess:- Além disso curto jogar xadrez, maratonar séries e sair para correr no final da tarde.
 
 <br>
 

@@ -10,7 +10,7 @@ Sou formado em Ciências Econômicas pela UFRPE e em Gestão em Logística pela 
 
 - Possuo um perfil analítico (identificação e visualização padrões).
 
-- Estou no início da carreira em *Data Science* focando no aprendizado das principais etapas dessa área (Coleta, pré-processamento, tratamento e modelagem de dados) e principais ferramentas (*Python*, *R*, etc.), estatística inferencial e séries temporais.
+- Estou no início da carreira em *Data Science* focando no aprendizado das principais etapas dessa área (Coleta, pré-processamento, tratamento, visualização e modelagem de dados). Também estou focando em outras ferramentas para bancos de dados como linguagem *SQL* e de visualização de dado (*Power BI*). 
 
 - Além disso curto jogar xadrez, maratonar séries e sair para correr no final da tarde.
 

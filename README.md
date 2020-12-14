@@ -8,7 +8,7 @@ Sou formado em Ciências Econômicas pela Universidade Federal Rural de Pernambu
 
 - Moro em Recife/PE.
 
-- Possuo um perfil analítico (identificação e visualização padrões) .
+- Possuo um perfil analítico (identificação e visualização padrões).
 
 - Estou no início da carreira em *Data Science* focando no aprendizado das principais etapas dessa área (Coleta, pré-processamento, tratamento, visualização e modelagem de dados). Também estou focando em outras ferramentas para bancos de dados como linguagem *SQL* e de visualização de dado (*Power BI*). 
 

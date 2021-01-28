@@ -6,7 +6,7 @@ Sou formado em Ciências Econômicas pela Universidade Federal Rural de Pernambu
 
 Entusiasta em *Data Science*, possuo conhecimento em :
 
-1) linguagem de programação Python para Análise, tratamento, visualização de dados, aplicação de modelos de *Machine Learning* (Regressão, Classificação, Agrupamento e Regras de associação), *Deep Learning* (Redes Neurais Artificiais para classificação e regressão), *Auto Machine Learning* (*TPOT* e *PyCaret*) e modelagem de *Time Series* (Algoritmos determinísticos, modelagem *Box-Jenkins*, modelagem multivariada, *Facebook Prophet*, *Neural Prophet*, redes neurais e etc). 
+1) linguagem de programação Python para Análise, tratamento, visualização de dados, aplicação de modelos de *Machine Learning* (Regressão, Classificação, Agrupamento e Regras de associação), *Deep Learning* (Redes Neurais Artificiais para classificação e regressão), *Auto Machine Learning* (*TPOT* e *PyCaret*) e modelagem de *Time Series* (Algoritmos determinísticos, modelagem *Box-Jenkins*, Vetores Autorregressivos, Vetores de Correção de erros, *Facebook Prophet*, *Neural Prophet*, Redes Neurais *LSTM* e etc). 
 
 2) *LaTex* (para produção de textos técnicos e científicos);
 

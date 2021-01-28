@@ -18,7 +18,7 @@ Entusiasta em *Data Science*, possuo conhecimento em :
 
 - Moro em Recife/PE.
 
-- Possuo um perfil analítico (identificação e visualização padrões).
+- Procuro identificar padrões nos dados.
 
 - Estou no início da carreira em *Data Science* focando no aprendizado das principais etapas dessa área (Coleta, pré-processamento, tratamento, visualização e modelagem de dados). Também estou focando em outras ferramentas para bancos de dados como linguagem *SQL* e de visualização de dado (*Power BI*). 
 

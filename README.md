@@ -4,13 +4,13 @@
 
 Sou formado em Ciências Econômicas pela Universidade Federal Rural de Pernambuco (**UFRPE**) e em Gestão em Logística pelo Centro Universitário Faculdade Boa Viagem (**UniFBV**).
 
-Entusiasta em *Data Science*, possuo conhecimento em :
+Entusiasta em *Data Science*, possuo conhecimento :
 
-1) linguagem de programação Python para Análise, tratamento, visualização de dados, aplicação de modelos de *Machine Learning* (Regressão, Classificação, Agrupamento e Regras de associação), *Deep Learning* (Redes Neurais Artificiais para classificação e regressão), *Auto Machine Learning* (*TPOT* e *PyCaret*) e modelagem de *Time Series* (Algoritmos determinísticos, modelagem *Box-Jenkins*, Vetores Autorregressivos, Vetores de Correção de erros, *Facebook Prophet*, *Neural Prophet*, Redes Neurais *LSTM* e etc). 
+1) na linguagem de programação Python para Análise, tratamento, visualização de dados, aplicação de modelos de *Machine Learning* (Regressão, Classificação, Agrupamento e Regras de associação), *Deep Learning* (Redes Neurais Artificiais para classificação e regressão), *Auto Machine Learning* (*TPOT* e *PyCaret*) e modelagem de *Time Series* (Algoritmos determinísticos, modelagem *Box-Jenkins*, Vetores Autorregressivos, Vetores de Correção de erros, *Facebook Prophet*, *Neural Prophet*, Redes Neurais *LSTM* e etc). 
 
-2) *LaTex* (para produção de textos técnicos e científicos);
+2) em *LaTex* (para produção de textos técnicos e científicos);
 
-3) *Software Stata* (para manipulação e modelagem de microdados);
+3) no *Software Stata* (para manipulação e modelagem de microdados);
 
 4) e na linguagem *R* para visualização e análise de dados.
 

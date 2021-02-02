@@ -2,13 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinnecristinapereira//)](https://www.linkedin.com/in/ivanildo-batista-da-silva-j%C3%BAnior-26201147/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=karinnecristinapereira@gmail.com)](ivanildo.batista13@gmail.com)
 
-Formação acadêmica:
-
-1) Gestão em Logística pelo Centro Universitário **UniFBV** (2011 - 2013);
-
-2) Ciências Econômicas pela **UFRPE** (2014 - 2018);
-
-3) Mestrando em Biometria e Estatística pela **UFRPE** (2021 - 2023).
+Sou formado em Gestão em Logística pelo Centro Universitário **UniFBV** (2011 - 2013) e Ciências Econômicas pela **UFRPE** (2014 - 2018).
 
 Entusiasta em *Data Science*, possuo conhecimento :
 

@@ -28,9 +28,9 @@ Entusiasta em *Data Science*, possuo conhecimento:
     
     1.5) Bibliotecas de *Auto Machine Learning* **(*TPOT* e *PyCaret*)**;
     
-    1.6) Modelagem de *Time Series* com Algoritmos determinísticos, modelagem *Box-Jenkins*, Modelos VAR e VEC, e Rede Neural *LSTM*, além de utilização das **bibliotecas *Facebook Prophet*, *Neural Prophet* e *Darts*.
+    1.6) Modelagem de *Time Series* com Algoritmos determinísticos, modelagem *Box-Jenkins*, Modelos VAR e VEC, e Rede Neural *LSTM*, além de utilização das **bibliotecas Facebook Prophet, Neural Prophet e Darts**.
     
-    1.7) Finanças com as **bibliotecas *PyPortfolioOpt* e *Fundamental Analysis*
+    1.7) Finanças com as **bibliotecas PyPortfolioOpt e Fundamental Analysis**.
 
 2) em *LaTex* (para produção de textos técnicos e científicos);
 

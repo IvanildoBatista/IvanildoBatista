@@ -2,9 +2,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinnecristinapereira//)](https://www.linkedin.com/in/ivanildo-batista-da-silva-j%C3%BAnior-26201147/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=karinnecristinapereira@gmail.com)](ivanildo.batista13@gmail.com)
 
-Sou formado em Gestão em Logística pelo Centro Universitário **UniFBV** (2011 - 2013) e Ciências Econômicas pela **UFRPE** (2014 - 2018).
+Sou formado em Gestão em Logística pelo Centro Universitário **UniFBV** (2011 - 2013) e Ciências Econômicas pela **UFRPE** (2014 - 2018). Estou no início da carreira em *Data Science* focando no aprendizado das principais etapas dessa área (Coleta, pré-processamento, tratamento, visualização e modelagem de dados). Também estou focando em outras ferramentas para bancos de dados como linguagem *SQL* e de visualização de dado (*Power BI*). Sou natural de **Recife-PE**, curto jogar xadrez, maratonar séries e sair para correr no final da tarde.
 
-Entusiasta em *Data Science*, possuo conhecimento :
+Entusiasta em *Data Science*, possuo conhecimento:
 
 1) na linguagem de programação Python para Análise, tratamento, visualização de dados, aplicação de modelos de *Machine Learning* (Regressão, Classificação, Agrupamento e Regras de associação), *Deep Learning* (Redes Neurais Artificiais para classificação e regressão), *Auto Machine Learning* (*TPOT* e *PyCaret*) e modelagem de *Time Series* (Algoritmos determinísticos, modelagem *Box-Jenkins*, Vetores Autorregressivos, Vetores de Correção de erros, *Facebook Prophet*, *Neural Prophet*, Redes Neurais *LSTM* e etc). 
 
@@ -13,16 +13,6 @@ Entusiasta em *Data Science*, possuo conhecimento :
 3) no *Software Stata* (para manipulação e modelagem de microdados);
 
 4) e na linguagem *R* para visualização e análise de dados.
-
-## Sobre mim
-
-- Moro em Recife/PE.
-
-- Procuro identificar padrões nos dados.
-
-- Estou no início da carreira em *Data Science* focando no aprendizado das principais etapas dessa área (Coleta, pré-processamento, tratamento, visualização e modelagem de dados). Também estou focando em outras ferramentas para bancos de dados como linguagem *SQL* e de visualização de dado (*Power BI*). 
-
-- Além disso curto jogar xadrez, maratonar séries e sair para correr no final da tarde.
 
 <br>
 

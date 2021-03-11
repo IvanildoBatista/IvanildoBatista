@@ -22,7 +22,7 @@ Entusiasta em *Data Science*, possuo conhecimento:
     
     1.2) Visualização de dados **(Bibliotecas *Matplotlib* e *Seaborn*)**;
     
-    1.3) Aplicação de modelos de *Machine Learning* (Regressão, Classificação, Agrupamento e Regras de associação) com a **biblioteca *Scikit-Learn*;
+    1.3) Aplicação de modelos de *Machine Learning* (Regressão, Classificação, Agrupamento e Regras de associação) com a **biblioteca Scikit-Learn**;
     
     1.4) Modelos de *Deep Learning* para classificação e regressão **(biblioteca *Keras*)**;
     

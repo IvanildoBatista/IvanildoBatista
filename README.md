@@ -2,12 +2,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinnecristinapereira//)](https://www.linkedin.com/in/ivanildo-batista-da-silva-j%C3%BAnior-26201147/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=karinnecristinapereira@gmail.com)](ivanildo.batista13@gmail.com)
 
-Sou formado em Gestão em Logística pelo Centro Universitário **UniFBV** (2011 - 2013) e Ciências Econômicas pela **UFRPE** (2014 - 2018) e atualmentes sou mestrando no programa de pós-graduação em Biometria e Estatística da **UFRPE**.
+Sou formado em Gestão em Logística pelo Centro Universitário **UniFBV** (2011 - 2013) e Ciências Econômicas pela **UFRPE** (2014 - 2018) e, atualmente, sou mestrando no programa de pós-graduação em **Biometria e Estatística da UFRPE**.
 
 ## Projetos, prêmios e reconhecimentos acadêmicos
 1) Terceiro Lugar na Gincana Pernambucana de Economia do ano de 2017;
 
-2) Projeto PIBIC na FACEPE com o tema "**Criminalidade e desempenho econômico: Uma análise em séries temporais para a Região Metropolitana do Recife**" que também foi o tema da dissertação de conclusão da graduação e propiciou o desenvolvimento de um artigo apresentado e premiado em **2° lugar** na categoria Desenvolvimento Regional do **VII Encontro Pernambucano de Economia** no ano de 2018;
+2) Projeto PIBIC na FACEPE com o tema "**Criminalidade e desempenho econômico: Uma análise em séries temporais para a Região Metropolitana do Recife**" que também foi o tema da dissertação de conclusão da graduação e propiciou o desenvolvimento de um artigo apresentado e premiado em **2° lugar** na categoria Desenvolvimento Regional do **VII Encontro Pernambucano de Economia** no ano de 2018. Esse artigo pode ser [aqui](https://coreconpe.gov.br/enpecon/viienpecon/artigos/sessao5/Criminalidade%20e%20desempenho%20econ%c3%b4mico%20Uma%20an%c3%a1lise%20em%20s%c3%a9ries%20temporais%20para%20a%20Regi%c3%a3o%20Metropolitana%20do%20Recife.pdf) e a página do evento com as premiações [aqui](https://coreconpe.gov.br/enpecon/viienpecon/index.html).
 
 3) **Láurea Acadêmica** no curso de Ciências Econômicas do ano de 2018.
 

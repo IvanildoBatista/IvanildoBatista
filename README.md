@@ -12,7 +12,7 @@ Entusiasta em *Data Science*, possuo conhecimento:
 
 3) no *Software Stata* (para manipulação e modelagem de microdados);
 
-4) e na linguagem *R* para visualização e análise de dados.
+4) e na linguagem *R* para visualização (Criação de gráficos com os pacotes **GGPLOT2** e **LATTICE**) e análise de dados.
 
 <br>
 

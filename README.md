@@ -2,7 +2,17 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinnecristinapereira//)](https://www.linkedin.com/in/ivanildo-batista-da-silva-j%C3%BAnior-26201147/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=karinnecristinapereira@gmail.com)](ivanildo.batista13@gmail.com)
 
-Sou formado em Gestão em Logística pelo Centro Universitário **UniFBV** (2011 - 2013) e Ciências Econômicas pela **UFRPE** (2014 - 2018). Estou no início da carreira em *Data Science* focando no aprendizado das principais etapas dessa área (Coleta, pré-processamento, tratamento, visualização e modelagem de dados). Também estou focando em outras ferramentas para bancos de dados como linguagem *SQL* e de visualização de dado (*Power BI*). Sou natural de **Recife-PE**, curto jogar xadrez, maratonar séries e sair para correr no final da tarde.
+Sou formado em Gestão em Logística pelo Centro Universitário **UniFBV** (2011 - 2013) e Ciências Econômicas pela **UFRPE** (2014 - 2018) e atualmentes sou mestrando no programa de pós-graduação em Biometria e Estatística da **UFRPE**.
+
+## Projetos, prêmios e reconhecimentos acadêmicos
+1) Terceiro Lugar na Gincana Pernambucana de Economia do ano de 2017;
+
+2) Projeto PIBIC na FACEPE com o tema "**Criminalidade e desempenho econômico: Uma análise em séries temporais para a Região Metropolitana do Recife**" que também foi o tema da dissertação de conclusão da graduação e propiciou o desenvolvimento de um artigo apresentado e premiado em **2° lugar** na categoria Desenvolvimento Regional do **VII Encontro Pernambucano de Economia** no ano de 2018;
+
+3) **Láurea Acadêmica** no curso de Ciências Econômicas do ano de 2018.
+
+## Conhecimentos
+Estou no início da carreira em *Data Science* focando no aprendizado das principais etapas dessa área (Coleta, pré-processamento, tratamento, visualização e modelagem de dados). Também estou focando em outras ferramentas para bancos de dados como linguagem *SQL* e de visualização de dado (*Power BI*). Sou natural de **Recife-PE**, curto jogar xadrez, maratonar séries e sair para correr no final da tarde.
 
 Entusiasta em *Data Science*, possuo conhecimento:
 

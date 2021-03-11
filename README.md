@@ -19,10 +19,15 @@ Entusiasta em *Data Science*, possuo conhecimento:
 1) na linguagem de programação *Python* para:
 
     1.1) Análise e tratamento de dados (bibliotecas *Pandas* e *Numpy*);
-    1.2) Visualização de dados (Bibliotecas *Matplotlib* e *Seaborn*)
+    
+    1.2) Visualização de dados (Bibliotecas *Matplotlib* e *Seaborn*);
+    
     1.3) Aplicação de modelos de *Machine Learning* (Regressão, Classificação, Agrupamento e Regras de associação) com a biblioteca *Scikit-Learn*;
-    1.4) Modelos de *Deep Learning* para classificação e regressão (biblioteca *Keras*)
+    
+    1.4) Modelos de *Deep Learning* para classificação e regressão (biblioteca *Keras*);
+    
     1.5) Bibliotecas de *Auto Machine Learning* (*TPOT* e *PyCaret*);
+    
     1.6) Modelagem de *Time Series* com Algoritmos determinísticos, modelagem *Box-Jenkins*, Modelos VAR e VEC, e Rede Neural *LSTM*, além de utilização das bibliotecas *Facebook Prophet*, *Neural Prophet* e *Darts*.
 
 2) em *LaTex* (para produção de textos técnicos e científicos);

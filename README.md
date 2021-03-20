@@ -5,9 +5,11 @@
 
 ### Formação Acadêmica
 
-Sou formado em Gestão em Logística pelo Centro Universitário **UniFBV** (2011 - 2013), Ciências Econômicas pela **UFRPE** (2014 - 2018) e, atualmente, mestrando no programa de pós-graduação em **Biometria e Estatística da UFRPE**. 
+1) Gestão em Logística pelo Centro Universitário **UniFBV** (2011 - 2013);
 
-Estou no início da carreira em *Data Science* focando no aprendizado das principais etapas dessa área (Coleta, pré-processamento, tratamento, visualização e modelagem de dados). Também estou focando em outras ferramentas para bancos de dados como linguagem *SQL* e de visualização de dado (*Power BI*). Sou natural de **Recife-PE**, curto jogar xadrez, maratonar séries e sair para correr no final da tarde.
+2) Ciências Econômicas pela **UFRPE** (2014 - 2018);
+
+3) Mestrado em andamento no programa de pós-graduação em **Biometria e Estatística da UFRPE** (2021 - ). 
 
 ### Projetos, prêmios e reconhecimentos acadêmicos
 1) **Terceiro Lugar** na **Gincana Pernambucana de Economia** do ano de 2017;

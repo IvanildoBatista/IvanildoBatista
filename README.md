@@ -30,7 +30,7 @@ Entusiasta em *Data Science*, possuo conhecimento:
     
     1.5) Bibliotecas de *Auto Machine Learning* **(*TPOT*, *PyCaret*, *AutoViz* e *Auto-Sklearn*)**;
     
-    1.6) Modelagem de *Time Series* com algoritmos de suavização , modelagem *Box-Jenkins* (ARIMA), Modelos VAR e VEC, e Redes Neurais ( Recorrentes e Convolucionais), além de utilização das **bibliotecas Facebook Prophet, Neural Prophet e Darts**.
+    1.6) Modelagem de *Time Series* com algoritmos de suavização , modelagem *Box-Jenkins* (ARIMA), Modelos VAR e VEC, e Redes Neurais (Recorrentes e Convolucionais), além de utilização das **bibliotecas Facebook Prophet, Neural Prophet e Darts**.
     
     1.7) Finanças com as **bibliotecas PyPortfolioOpt e Fundamental Analysis**.
 

@@ -13,7 +13,7 @@
 
 2) **Projeto PIBIC** pela FACEPE com o tema "**Criminalidade e desempenho econômico: Uma análise em séries temporais para a Região Metropolitana do Recife**" que também foi o tema da dissertação de conclusão da graduação;
 
-3)  Artigo apresentado e premiado em **2° lugar** na categoria Desenvolvimento Regional do **VII Encontro Pernambucano de Economia** no ano de 2018. Esse artigo pode ser consultado [aqui](https://coreconpe.gov.br/enpecon/viienpecon/artigos/sessao5/Criminalidade%20e%20desempenho%20econ%c3%b4mico%20Uma%20an%c3%a1lise%20em%20s%c3%a9ries%20temporais%20para%20a%20Regi%c3%a3o%20Metropolitana%20do%20Recife.pdf) e a página do evento com as premiações [aqui](https://coreconpe.gov.br/enpecon/viienpecon/index.html);
+3)  Artigo apresentado e premiado em **segundo lugar** na categoria Desenvolvimento Regional do **VII Encontro Pernambucano de Economia**, no ano de 2018. Esse artigo pode ser consultado [aqui](https://coreconpe.gov.br/enpecon/viienpecon/artigos/sessao5/Criminalidade%20e%20desempenho%20econ%c3%b4mico%20Uma%20an%c3%a1lise%20em%20s%c3%a9ries%20temporais%20para%20a%20Regi%c3%a3o%20Metropolitana%20do%20Recife.pdf) e a página do evento com as premiações [aqui](https://coreconpe.gov.br/enpecon/viienpecon/index.html);
 
 4) **Láurea Acadêmica** no curso de Ciências Econômicas do ano de 2018.
 

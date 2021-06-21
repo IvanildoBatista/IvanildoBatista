@@ -49,7 +49,9 @@ Entusiasta em *Data Science*, possuo conhecimento:
    
    4.3) Análise de dados;
    
-   4.4)e visualização de dados (Criação de gráficos com os pacotes **ggplot2**, **Lattice**, **ggcorrplot**, etc.);
+   4.4) visualização de dados (Criação de gráficos com os pacotes **ggplot2**, **Lattice**, **ggcorrplot**, etc.);
+
+   4.5) Edição de textos (**Rmarkdown** e **Xaringan**).
 
 <br>
 

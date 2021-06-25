@@ -19,8 +19,6 @@
 
 ### Conhecimentos
 
-Entusiasta em *Data Science*, possuo conhecimento:
-
 1) na linguagem de programação *Python* para:
 
     1.1) Análise e tratamento de dados **(bibliotecas *Pandas* e *Numpy*)**;

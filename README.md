@@ -9,53 +9,34 @@
 1) Gestão em Logística pelo Centro Universitário **UniFBV** (2011 - 2013), Bacharelado em Ciências Econômicas pela **UFRPE** (2014 - 2018) e mestrando no programa de pós-graduação em **Biometria e Estatística da UFRPE** (2021 - ). 
 
 ### Projetos, prêmios e reconhecimentos acadêmicos
-1) **Terceiro Lugar** na **Gincana Pernambucana de Economia** do ano de 2017;
 
-2) **Projeto PIBIC** pela FACEPE com o tema "**Criminalidade e desempenho econômico: Uma análise em séries temporais para a Região Metropolitana do Recife**" que também foi o tema da dissertação de conclusão da graduação;
+1) **Projeto PIBIC** pela FACEPE com o tema "**Criminalidade e desempenho econômico: Uma análise em séries temporais para a Região Metropolitana do Recife**" que também foi o tema da dissertação de conclusão da graduação;
 
-3)  Artigo apresentado e premiado em **segundo lugar** na categoria Desenvolvimento Regional do **VII Encontro Pernambucano de Economia**, no ano de 2018. Esse artigo pode ser consultado [aqui](https://coreconpe.gov.br/enpecon/viienpecon/artigos/sessao5/Criminalidade%20e%20desempenho%20econ%c3%b4mico%20Uma%20an%c3%a1lise%20em%20s%c3%a9ries%20temporais%20para%20a%20Regi%c3%a3o%20Metropolitana%20do%20Recife.pdf) e a página do evento com as premiações [aqui](https://coreconpe.gov.br/enpecon/viienpecon/index.html);
+2)  Artigo apresentado e premiado em **segundo lugar** na categoria Desenvolvimento Regional do **VII Encontro Pernambucano de Economia**, no ano de 2018. Esse artigo pode ser consultado [aqui](https://coreconpe.gov.br/enpecon/viienpecon/artigos/sessao5/Criminalidade%20e%20desempenho%20econ%c3%b4mico%20Uma%20an%c3%a1lise%20em%20s%c3%a9ries%20temporais%20para%20a%20Regi%c3%a3o%20Metropolitana%20do%20Recife.pdf) e a página do evento com as premiações [aqui](https://coreconpe.gov.br/enpecon/viienpecon/index.html);
 
-4) **Láurea Acadêmica** no curso de Ciências Econômicas do ano de 2018.
+3) **Láurea Acadêmica** no curso de Ciências Econômicas do ano de 2018.
 
 ### Conhecimentos
 
-1) na linguagem de programação *Python* para:
+1) na linguagem de programação *Python* para Análise e tratamento de dados **(bibliotecas *Pandas* e *Numpy*)**, Visualização de dados **(Bibliotecas *Matplotlib* e *Seaborn*)**, 
+ Aplicação de modelos de *Machine Learning* (Regressão, Classificação, Agrupamento e Regras de associação) com a **biblioteca Scikit-Learn**, *Deep Learning* para classificação e regressão **(biblioteca *Keras*)**,  *Auto Machine Learning* **(*TPOT*, *MLBox*, *PyCaret*, *AutoViz* e *Auto-Sklearn*)**, Série temporais com métodos univariados (Suavização exponencial e modelagem *Box-Jenkins*), Multivariada (VAR e VECM), Redes Neurais (Recorrentes e Convolucionais) e **bibliotecas Facebook Prophet, Neural Prophet e Darts**.
+    
+2) Finanças com as **bibliotecas PyPortfolioOpt e Fundamental Analysis**.
 
-    1.1) Análise e tratamento de dados **(bibliotecas *Pandas* e *Numpy*)**;
-    
-    1.2) Visualização de dados **(Bibliotecas *Matplotlib* e *Seaborn*)**;
-    
-    1.3) Aplicação de modelos de *Machine Learning* (Regressão, Classificação, Agrupamento e Regras de associação) com a **biblioteca Scikit-Learn**;
-    
-    1.4) Modelos de *Deep Learning* para classificação e regressão **(biblioteca *Keras*)**;
-    
-    1.5) Bibliotecas de *Auto Machine Learning* **(*TPOT*, *MLBox*, *PyCaret*, *AutoViz* e *Auto-Sklearn*)**;
-    
-    1.6) Modelagem de *Time Series* com algoritmos de suavização , modelagem *Box-Jenkins* (ARIMA), Modelos VAR e VEC, e Redes Neurais (Recorrentes e Convolucionais), além de utilização das **bibliotecas Facebook Prophet, Neural Prophet e Darts**.
-    
-    1.7) Finanças com as **bibliotecas PyPortfolioOpt e Fundamental Analysis**.
-
-2) em *LaTex* (para produção de textos técnicos e científicos);
+3) em *LaTex* (para produção de textos técnicos e científicos);
 
 3) no *Software Stata* (para manipulação e modelagem de microdados);
 
-4) e na linguagem *R* para :
+4) e na linguagem *R* para pré-processamento, tratamento, análise e visualização de dados;
 
-   4.1) Pré-processamento de dados;
-   
-   4.2) Tratamento de dados;
-   
-   4.3) Análise de dados;
-   
-   4.4) visualização de dados (Criação de gráficos com os pacotes **ggplot2**, **Lattice**, **ggcorrplot**, etc.);
-
-   4.5) Edição de textos (**Rmarkdown** e **Xaringan**).
+5) Edição de textos (**LaTex**).
 
 <br>
 
 <details open>
  <summary><b>Linguagens e Ferramentas</b>:</summary>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>

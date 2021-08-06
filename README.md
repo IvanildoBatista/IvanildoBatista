@@ -18,18 +18,12 @@
 
 ### Conhecimentos
 
-1) na linguagem de programação *Python* para Análise e tratamento de dados **(bibliotecas *Pandas* e *Numpy*)**, Visualização de dados **(Bibliotecas *Matplotlib* e *Seaborn*)**, 
- Aplicação de modelos de *Machine Learning* (Regressão, Classificação, Agrupamento e Regras de associação) com a **biblioteca Scikit-Learn**, *Deep Learning* para classificação e regressão **(biblioteca *Keras*)**,  *Auto Machine Learning* **(*TPOT*, *MLBox*, *PyCaret*, *AutoViz* e *Auto-Sklearn*)**, Série temporais com métodos univariados (Suavização exponencial e modelagem *Box-Jenkins*), Multivariada (VAR e VECM), Redes Neurais (Recorrentes e Convolucionais) e **bibliotecas Facebook Prophet, Neural Prophet e Darts**.
-    
-2) Finanças com as **bibliotecas PyPortfolioOpt e Fundamental Analysis**.
+1) na linguagem de programação *Python* para Análise e tratamento de dados **(*Pandas* e *Numpy*)**, Visualização de dados **(*Matplotlib* e *Seaborn*)**, 
+ Aplicação de modelos de *Machine Learning* (Regressão, Classificação, Agrupamento e Regras de associação) com a **Scikit-Learn**, *Deep Learning* para classificação e regressão **(*Keras*)**,  *Auto Machine Learning* **(*TPOT*, *MLBox*, *PyCaret*, *AutoViz* e *Auto-Sklearn*)**, Série temporais com métodos univariados (Suavização exponencial e modelagem *Box-Jenkins*), Multivariada (VAR e VECM), Redes Neurais (Recorrentes e Convolucionais) e **Facebook Prophet, Neural Prophet, Darts, AutoTS e AutoPy**. Finanças com as **bibliotecas PyPortfolioOpt e Fundamental Analysis**.
 
-3) em *LaTex* (para produção de textos técnicos e científicos);
+2) em *LaTex* (para produção de textos técnicos e científicos);
 
-3) no *Software Stata* (para manipulação e modelagem de microdados);
-
-4) e na linguagem *R* para pré-processamento, tratamento, análise e visualização de dados;
-
-5) Edição de textos (**LaTex**).
+3) e na linguagem *R* para pré-processamento, tratamento, análise, visualização e apresentação de dados. Séries temporais (**ModelTimes**).
 
 <br>
 

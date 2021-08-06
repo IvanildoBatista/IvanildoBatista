@@ -14,6 +14,8 @@ Gestão em Logística pelo Centro Universitário **UniFBV** (2011 - 2013), Bacha
 
 2)  Artigo apresentado e premiado em **segundo lugar** na categoria Desenvolvimento Regional do **VII Encontro Pernambucano de Economia**, no ano de 2018. Esse artigo pode ser consultado [aqui](https://coreconpe.gov.br/enpecon/viienpecon/artigos/sessao5/Criminalidade%20e%20desempenho%20econ%c3%b4mico%20Uma%20an%c3%a1lise%20em%20s%c3%a9ries%20temporais%20para%20a%20Regi%c3%a3o%20Metropolitana%20do%20Recife.pdf) e a página do evento com as premiações [aqui](https://coreconpe.gov.br/enpecon/viienpecon/index.html);
 
+3) Artigo *Trend analysis in standardized precipitation index in Recife–PE* publicado na **RESEARCH, SOCIETY AND DEVELOPMENT** que pode ser consultado [aqui](https://rsdjournal.org/index.php/rsd/article/view/17458).
+
 3) **Láurea Acadêmica** no curso de Ciências Econômicas do ano de 2018.
 
 ### Conhecimentos

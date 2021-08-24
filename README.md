@@ -21,7 +21,7 @@ Gestão em Logística pelo Centro Universitário **UniFBV** (2011 - 2013), Bacha
 ### Conhecimentos
 
 1) na linguagem de programação *Python* para Análise e tratamento de dados **(*Pandas* e *Numpy*)**, Visualização de dados **(*Matplotlib* e *Seaborn*)**, 
- Aplicação de modelos de *Machine Learning* (Regressão, Classificação, Agrupamento e Regras de associação) com a **Scikit-Learn**, *Deep Learning* para classificação e regressão **(*Keras*)**,  *Auto Machine Learning* **(*TPOT*, *MLBox*, *PyCaret*, *AutoViz* e *Auto-Sklearn*)**, Série temporais com métodos univariados (Suavização exponencial e modelagem *Box-Jenkins*), Multivariada (VAR e VECM), Redes Neurais (Recorrentes e Convolucionais),**PMDARIMA**(AutoARIMA), **Facebook Prophet, Neural Prophet, Darts, AutoTS e AutoPy**. Finanças com as **bibliotecas PyPortfolioOpt e Fundamental Analysis**.
+ Aplicação de modelos de *Machine Learning* (Regressão, Classificação, Agrupamento e Regras de associação) com a **Scikit-Learn**, *Deep Learning* para classificação e regressão **(*Keras*)**,  *Auto Machine Learning* **(*TPOT*, *MLBox*, *PyCaret*, *AutoViz* e *Auto-Sklearn*)**, Série temporais com métodos univariados (Suavização exponencial e modelagem *Box-Jenkins*), Multivariada (VAR e VECM), Redes Neurais (Recorrentes e Convolucionais), **PMDARIMA**(AutoARIMA), **Facebook Prophet, Neural Prophet, Darts, AutoTS e AutoPy**. Finanças com as **bibliotecas PyPortfolioOpt e Fundamental Analysis**.
 
 2) em *LaTex* (para produção de textos técnicos e científicos);
 

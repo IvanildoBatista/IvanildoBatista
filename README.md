@@ -25,7 +25,7 @@ Gestão em Logística pelo Centro Universitário **UniFBV** (2011 - 2013), Bacha
 
 2) em *LaTex* (para produção de textos técnicos e científicos);
 
-3) e na linguagem *R* para pré-processamento, tratamento, análise, visualização (**ggplot2** e **lattice**) e apresentação de dados (**Rmarkdown** e **Xaringan**). Séries temporais (**ModelTimes**).
+3) e na linguagem *R* para pré-processamento, tratamento, análise, visualização (**ggplot2** e **lattice**) e apresentação de dados (**Rmarkdown** e **Xaringan**). Análise, decomposição e previsão de séries temporais (**ModelTimes**).
 
 <br>
 

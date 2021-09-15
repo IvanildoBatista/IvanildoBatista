@@ -42,3 +42,5 @@ Gestão em Logística pelo Centro Universitário **UniFBV** (2011 - 2013), Bacha
 <br>
 
 ![IvanildoBatista GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvanildoBatista&show_icons=False)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

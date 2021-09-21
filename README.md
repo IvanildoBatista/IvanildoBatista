@@ -8,7 +8,7 @@
 
 Gestão em Logística pelo Centro Universitário **UniFBV** (2011 - 2013), Bacharelado em Ciências Econômicas pela **UFRPE** (2014 - 2018) e mestrando no programa de pós-graduação em **Biometria e Estatística Aplicada da UFRPE** (2021 - ). 
 
-### Projetos, prêmios e reconhecimentos acadêmicos
+### Projetos, publicações e reconhecimentos acadêmicos
 
 1) **Projeto PIBIC** pela FACEPE com o tema "**Criminalidade e desempenho econômico: Uma análise em séries temporais para a Região Metropolitana do Recife**" que também foi o tema da dissertação de conclusão da graduação;
 

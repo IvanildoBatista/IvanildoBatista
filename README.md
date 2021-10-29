@@ -21,11 +21,11 @@ Gestão em Logística pelo Centro Universitário **UniFBV** (2011 - 2013), Bacha
 ### Conhecimentos
 
 1) na linguagem de programação *Python* para Análise e tratamento de dados **(*Pandas* e *Numpy*)**, Visualização de dados **(*Matplotlib* e *Seaborn*)**, 
- Aplicação de modelos de *Machine Learning* (Regressão, Classificação, Agrupamento e Regras de associação) com a **Scikit-Learn**, *Deep Learning* para classificação e regressão **(*Keras*)** e  *Auto Machine Learning* **(*TPOT*, *MLBox*, *PyCaret*, *AutoViz* e *Auto-Sklearn*)**. Série temporais com métodos univariados (Suavização exponencial e abordagem *Box-Jenkins*), Multivariados (VAR e VECM), Redes Neurais (Recorrentes e Convolucionais), **PMDARIMA** (AutoARIMA), **Facebook Prophet, Neural Prophet, Multi Prophet, Darts, AutoTS, *PyAF* e AutoPy**. Finanças com as **bibliotecas PyPortfolioOpt e Fundamental Analysis**.
+ Aplicação de modelos de *Machine Learning* (Regressão, Classificação, Agrupamento e Regras de associação) com a **Scikit-Learn**, *Deep Learning* para classificação e regressão **(*Keras*)** e  *Auto Machine Learning* **(*TPOT*, *MLBox*, *PyCaret*, *AutoViz* e *Auto-Sklearn*)**. Série temporais com métodos univariados (Suavização exponencial e abordagem *Box-Jenkins*), Multivariados (VAR e VECM), Redes Neurais (Recorrentes e Convolucionais), **PMDARIMA** (AutoARIMA), **Facebook Prophet, Neural Prophet, Multi Prophet, Darts, AutoTS, *PyAF* e AutoPy**. Finanças com as **bibliotecas PyPortfolioOpt e Fundamental Analysis**. Cálculo de índices climatológicos para identificação e análise de seca (SPI, SPEI, etc.) com a biblioteca **climate indices**. Análise de tendência de séries temporais com a biblioteca **pymannkendall**.
 
 2) em *LaTex* (para produção de textos técnicos e científicos): Tipos de documentos, formatação de textos, imagens, equações, tabelas, etc.
 
-3) e na linguagem *R* para pré-processamento, tratamento, análise, visualização (**ggplot2** e **lattice**) e apresentação de dados (**Rmarkdown** e **Xaringan**). Análise, decomposição e previsão de séries temporais (**ModelTimes**).
+3) e na linguagem *R* para pré-processamento, tratamento, análise, visualização (**ggplot2** e **lattice**) e apresentação de dados (**Rmarkdown** e **Xaringan**). Análise, decomposição e previsão de séries temporais (**ModelTimes**). Cálculo de índices climatológicos para identificação e análise de seca (SPI, SPEI, etc.) com o pacote **SPEI**. Análise de tendência em séries temporais com o pacote **Kendall**.
 
 <br>
 

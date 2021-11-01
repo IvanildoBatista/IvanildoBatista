@@ -25,7 +25,7 @@ Gestão em Logística pelo Centro Universitário **UniFBV** (2011 - 2013), Bacha
 
 2) em *LaTex* (para produção de textos técnicos e científicos): Tipos de documentos, formatação de textos, imagens, equações, tabelas, etc.
 
-3) e na linguagem *R* para pré-processamento, tratamento, análise (**Tidyverse**), visualização (**ggplot2** e **lattice**) e apresentação de dados (**Rmarkdown** e **Xaringan**). Análise, decomposição e previsão de séries temporais (**ModelTimes**). Cálculo de índices climatológicos para identificação e análise de seca (SPI, SPEI, etc.) com o pacote **SPEI**. Análise de tendência em séries temporais com o pacote **Kendall**. Criação de mapas com o pacote **GeoBR**.
+3) e na linguagem *R* para pré-processamento, tratamento, análise (**Tidyverse**), visualização (**ggplot2** e **lattice**) e apresentação de dados (**Rmarkdown** e **Xaringan**). Análise, decomposição e previsão de séries temporais (**ModelTimes**). Cálculo de índices climatológicos para identificação e análise de seca (SPI, SPEI, etc.) com o pacote **SPEI**. Análise de tendência em séries temporais com os pacotes **Kendall** e **trend**. Criação de mapas com o pacote **GeoBR**.
 
 <br>
 

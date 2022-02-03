@@ -7,8 +7,11 @@
 ### Formação Acadêmica
 
 Gestão em Logística pelo Centro Universitário **UniFBV** (2011 - 2013)
+
 Bacharelado em Ciências Econômicas pela **UFRPE** (2014 - 2018)
+
 Mestrando no Programa de Pós-Graduação em **Biometria e Estatística Aplicada da UFRPE** (2021 - 2023)
+
 Graduando em Sistemas da Informação pela **UFRPE** (2022 -). 
 
 ### Projetos, publicações e reconhecimentos acadêmicos

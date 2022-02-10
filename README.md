@@ -33,10 +33,10 @@
 
 3) em *LaTex* para produção de textos técnicos e científicos: Tipos de documentos (livros, artigos, apresentações, pré-projetos, dissertação de mestrado, tese de doutorado, *banners*, currículos, etc.), formatação de textos, imagens, equações, tabelas, referências, apêndices, símbolos, revisão de textos, inserção de códigos, etc.
 
-## ⚙️ Stack
+## ⚙️ Linguagens e ferramentas
 
 ![](https://img.shields.io/badge/Python-3a4ff0?style=for-the-badge&logo=python&logoColor=white)
-
+![](https://img.shields.io/badge/qgis-fff?style=for-the-badge&logo=qgis&logoColor=196c8c)
 <br>
 
 <details open>

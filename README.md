@@ -33,25 +33,16 @@
 
 3) em *LaTex* para produção de textos técnicos e científicos: Tipos de documentos (livros, artigos, apresentações, pré-projetos, dissertação de mestrado, tese de doutorado, *banners*, currículos, etc.), formatação de textos, imagens, equações, tabelas, referências, apêndices, símbolos, revisão de textos, inserção de códigos, etc.
 
-## ⚙️ Linguagens e ferramentas
+## Linguagens e ferramentas
 
 ![](https://img.shields.io/badge/Python-3a4ff0?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/qgis-fff?style=for-the-badge&logo=qgis&logoColor=196c8c)
-<br>
-
-<details open>
- <summary><b>Linguagens e Ferramentas</b>:</summary>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/sqlite/sqlite.png"></code>             
- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
- 
- <code><img height="20" src="https://camo.githubusercontent.com/c096d2ce6476b582a4e63be2b7ff9f47c7c8ca8144e387b2b673de0117083312/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e342e302f69636f6e732f70616e6461732e737667"></code>
-</details>
-
-<br>
+![](https://img.shields.io/badge/pandas-fff?style=for-the-badge&logo=pandas&logoColor=196c8c)
+![](https://img.shields.io/badge/latex-fff?style=for-the-badge&logo=latex&logoColor=196c8c)
+![](https://img.shields.io/badge/scikit-learn-fff?style=for-the-badge&logo=scikit-learn&logoColor=196c8c)
+![](https://img.shields.io/badge/r-fff?style=for-the-badge&logo=r&logoColor=196c8c)
+![](https://img.shields.io/badge/sql-fff?style=for-the-badge&logo=sql&logoColor=196c8c)
+![](https://img.shields.io/badge/github-fff?style=for-the-badge&logo=github&logoColor=196c8c)
 
 ![IvanildoBatista GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvanildoBatista&show_icons=False)
 

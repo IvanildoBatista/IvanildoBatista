@@ -43,6 +43,11 @@
 ![](https://img.shields.io/badge/r-fff?style=for-the-badge&logo=r&logoColor=196c8c)
 ![](https://img.shields.io/badge/sql-fff?style=for-the-badge&logo=sql&logoColor=196c8c)
 ![](https://img.shields.io/badge/github-fff?style=for-the-badge&logo=github&logoColor=196c8c)
+![](https://img.shields.io/badge/pycaret-fff?style=for-the-badge&logo=pycaret&logoColor=196c8c)
+![](https://img.shields.io/badge/numpy-fff?style=for-the-badge&logo=numpy&logoColor=196c8c)
+![](https://img.shields.io/badge/automl-fff?style=for-the-badge&logo=automl&logoColor=196c8c)
+![](https://img.shields.io/badge/excel-fff?style=for-the-badge&logo=excel&logoColor=196c8c)
+![](https://img.shields.io/badge/powerbi-fff?style=for-the-badge&logo=powerbi&logoColor=196c8c)
 
 ![IvanildoBatista GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvanildoBatista&show_icons=False)
 

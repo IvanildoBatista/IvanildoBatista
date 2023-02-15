@@ -12,8 +12,6 @@
 
 3) Mestrando no Programa de Pós-Graduação em **Biometria e Estatística Aplicada da UFRPE** (2021 - 2023)
 
-4) Graduando em Sistemas da Informação pela **UFRPE** (2022 -). 
-
 ### Projetos, publicações e reconhecimentos acadêmicos
 
 1) **Projeto PIBIC** pela FACEPE com o tema "**Criminalidade e desempenho econômico: Uma análise em séries temporais para a Região Metropolitana do Recife**" que também foi o tema da dissertação de conclusão da graduação;

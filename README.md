@@ -12,7 +12,7 @@
 
 3) Mestre em **Biometria e Estatística Aplicada da UFRPE** (2021 - 2023)
 
-4)  Doutorando em **Biometria e Estatística Aplicada da UFRPE** (2021 - 2023)
+4)  Doutorando em **Biometria e Estatística Aplicada da UFRPE** (2023 - 2027)
 
 ### Projetos, publicações e reconhecimentos acadêmicos
 

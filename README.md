@@ -10,7 +10,9 @@
 
 2) Bacharelado em Ciências Econômicas pela **UFRPE** (2014 - 2018)
 
-3) Mestrando no Programa de Pós-Graduação em **Biometria e Estatística Aplicada da UFRPE** (2021 - 2023)
+3) Mestre em **Biometria e Estatística Aplicada da UFRPE** (2021 - 2023)
+
+4)  Doutorando em **Biometria e Estatística Aplicada da UFRPE** (2021 - 2023)
 
 ### Projetos, publicações e reconhecimentos acadêmicos
 

@@ -14,7 +14,7 @@
 
 4)  Doutorando em **Biometria e Estatística Aplicada da UFRPE** (2023 - 2027)
 
-### Projetos, publicações e reconhecimentos acadêmicos
+### Produções acadêmicas
 
 1) **Projeto PIBIC** pela FACEPE com o tema "**Criminalidade e desempenho econômico: Uma análise em séries temporais para a Região Metropolitana do Recife**" que também foi o tema da dissertação de conclusão da graduação;
 
@@ -23,8 +23,6 @@
 3) Artigo *Trend analysis in standardized precipitation index in Recife–PE* publicado na revista **Research, Society and Development**, que pode ser consultado [aqui](https://rsdjournal.org/index.php/rsd/article/view/17458).
 
 4) Artigo *Space-Time Variability of Drought Characteristics in Pernambuco, Brazil* publicado na revista **Water/MDPI**, que pode ser consultado [aqui]([https://rsdjournal.org/index.php/rsd/article/view/17458](https://www.mdpi.com/2073-4441/16/11/1490?utm_campaign=releaseissue_waterutm_medium=emailutm_source=releaseissueutm_term=titlelink29)).
-
-5) **Láurea Acadêmica** no curso de Ciências Econômicas do ano de 2018.
 
 ### Conhecimentos
 
